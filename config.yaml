@@ -1,11 +1,11 @@
 credentials:
   usernames:
     'auditor': # Replace with your desired username
-      name: 'Auditor Name'  #Replace with desired name
-      password: 'Password123' # Replace with your desired password
+      name: 'Bartosz'  #Replace with desired name
+      password: '6-por-roku-vivaldiego' # Replace with your desired password
 cookie:
   name: 'streamlit_auth_cookie'
   key: 'supersecretkey'  #Change this to a STRONG, random key for security.
   expiry_days: 30
 preauthorized:
-  emails: [admin@bezpiecznyblog.pl]
+  emails: []
