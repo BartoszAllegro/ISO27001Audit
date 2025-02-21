@@ -1,3 +1,5 @@
+import sys
+print(f"Streamlit's Python executable: {sys.executable}")
 import streamlit as st
 import pandas as pd
 import os
